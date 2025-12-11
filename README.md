@@ -21,18 +21,22 @@ A selection of projects from my coursework and independent work:
 - **Cary Homebuying Neighborhoods**  
   Web map designed for prospective homebuyers to compare neighborhoods by housing type, price, and other characteristics.  
   Code: https://github.com/watkinszt/Cary-Homebuying-Neighborhoods  
-
+  Live map (GitHub Pages): https://watkinszt.github.io/Cary-Homebuying-Neighborhoods/
+  
 - **National Park Land by State**  
   Choropleth-style map summarizing national park land area by U.S. state.  
   Code: https://github.com/watkinszt/National-Park-Land-by-State  
-
+  Live map (GitHub Pages): https://watkinszt.github.io/National-Park-Land-by-State/
+  
 - **U.S. Population Density Map**  
   Visualization of population density across the United States using graduated symbols.  
   Code: https://github.com/watkinszt/US-Population-Density-Map  
+  Live map (GitHub Pages): https://watkinszt.github.io/US-Population-Density-Map/
 
 - **Tanawha Trail Map**  
   Trail-focused web map highlighting key segments and points of interest along the Tanawha Trail.  
   Code: https://github.com/watkinszt/tanawha-trail-map  
+  Live map (GitHub Pages): https://watkinszt.github.io/tanawha-trail-map/
 
 *(Additional projects and labs are available in my other repositories.)*
 
